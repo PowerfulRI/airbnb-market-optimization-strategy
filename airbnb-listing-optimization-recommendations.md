@@ -7,16 +7,72 @@
 
 ---
 
+## Table of Contents
+
+1. [Quick Start - Priority Actions](#quick-start---priority-actions)
+2. [Executive Summary](#executive-summary)
+3. [Market Research & Competitive Analysis](#market-research--competitive-analysis)
+   - [Hartford Market Overview](#hartford-ct-market-overview)
+   - [Sarasota Market Overview](#sarasota-fl-market-overview)
+   - [Performance Insights](#performance-insights-from-airbnb-dashboard)
+4. [SWOT Analysis](#swot-analysis)
+   - [Hartford Properties](#hartford-properties-swot)
+   - [Sarasota Property](#sarasota-property-swot)
+5. [Target Guest Personas](#target-guest-personas)
+   - [Hartford Personas](#hartford-guest-personas)
+   - [Sarasota Personas](#sarasota-guest-personas-30-day-minimum)
+6. [Strategic Recommendations](#strategic-recommendations)
+   - [Immediate Actions](#immediate-actions-this-week)
+   - [Medium-Term Actions](#medium-term-actions-this-month)
+   - [Long-Term Strategy](#long-term-strategy-this-quarter)
+7. [Listing Optimization by Unit](#hartford-listings)
+8. [General Recommendations](#general-recommendations-for-all-listings)
+9. [Priority Action Items](#priority-action-items)
+
+---
+
+# QUICK START - PRIORITY ACTIONS
+
+**Do This Week:**
+1. **Sarasota (URGENT):** List on Furnished Finder at $3,800-4,200/month to generate first booking during peak snowbird season
+2. **Hartford Winter Crisis:** Enable 30% monthly discount, list all units on Furnished Finder for travel nurses
+3. **All Listings:** Reorder photos with hero shots first, update titles with SEO keywords below
+
+**Do This Month:**
+4. Implement dynamic pricing tool (PriceLabs recommended)
+5. Post in travel nurse and snowbird Facebook groups
+6. Request reviews from all past guests
+
+---
+
+# EXECUTIVE SUMMARY
+
+| Listing | Current Rating | Reviews | Key Opportunity |
+|---------|---------------|---------|-----------------|
+| Unit 5 - Enchanting 3BR | 4.76 | 42 | Improve title SEO, reorder photos |
+| Unit 4 - Guest Favorite | 4.88 | 50 | Leverage "Guest Favorite" status |
+| Unit 3 - Historic Studio | 4.74 | 38 | Target audience refinement |
+| Unit 1 - Zen Manor 2BR | 4.79 | 62 | Highlight unique hammock, refine bohemian appeal |
+| Sarasota Pool Home | New | 0 | Build reviews, optimize for monthly rental market |
+
+**Critical Finding:** Hartford winter occupancy dropped from 87% (September) to near 0% (December-January). Sarasota has 0% occupancy during peak snowbird season. Both require immediate action.
+
+---
+
 # MARKET RESEARCH & COMPETITIVE ANALYSIS
 
 ## Hartford, CT Market Overview
 
 ### Market Statistics
-- **Average Occupancy:** 62%
-- **Average Daily Rate (ADR):** $102
+> *Note: Market statistics below represent Hartford area benchmarks from AirDNA/industry data, not our specific portfolio performance.*
+
+- **Market Average Occupancy:** 62% (industry benchmark for Hartford area)
+- **Market Average Daily Rate (ADR):** $102
 - **Peak Season:** May-October
 - **Low Season:** November-March (significant drop-off)
 - **Primary Demand Drivers:** Medical travelers, Trinity College visitors, business travelers, contractors
+
+**Our Portfolio vs Market:** See [Performance Insights](#performance-insights-from-airbnb-dashboard) for actual property data.
 
 ### Top Competitor Analysis: "Posh Pad in The Business District"
 
@@ -44,12 +100,16 @@
 ## Sarasota, FL Market Overview
 
 ### Market Statistics
-- **Average Occupancy:** 67%
-- **Average Daily Rate (ADR):** $304+ for pool homes
+> *Note: Market statistics below represent Sarasota area benchmarks for comparable 4BR pool homes, not our specific property performance (which is a new listing with 0 reviews).*
+
+- **Market Average Occupancy:** 67% (industry benchmark for Sarasota 4BR pool homes)
+- **Market Average Daily Rate (ADR):** $304+ for pool homes
 - **Peak Season:** January-April (Snowbird Season)
 - **Shoulder Season:** November-December, May
 - **Low Season:** June-September (summer heat)
 - **Primary Demand Drivers:** Snowbirds, family vacations, golf groups, beach seekers
+
+**Our Property Status:** New listing with 0% current occupancy - see [Sarasota Performance](#sarasota-performance) for details.
 
 ### Property Location Context
 - **Neighborhood:** Colonial Oaks (ZIP 34232)
@@ -99,7 +159,9 @@
 | Listing-to-booking | 6.93% | 1.74% |
 | Overall conversion | 1.08% | 0.24% |
 
-**Key Insight:** Listings maintain search visibility (46-54% first-page impressions) but booking conversion drops dramatically in winter. This suggests **pricing strategy** is the primary issue, not listing quality.
+> *Note: Overall conversion is sourced directly from Airbnb's host dashboard analytics. These are the actual end-to-end conversion rates as calculated by Airbnb, which may factor in additional variables beyond the simple funnel multiplication.*
+
+**Key Insight:** Listings maintain search visibility (46-54% first-page impressions) but booking conversion drops dramatically in winter. The 4x drop in listing-to-booking conversion (6.93% → 1.74%) suggests **pricing strategy** is the primary issue, not listing quality.
 
 ### Sarasota Performance
 
@@ -524,18 +586,6 @@
    - Contact Doctors Hospital & Sarasota Memorial HR
    - Offer preferred rates for traveling medical staff
    - 8-13 week contracts fit perfectly with 30-day minimum
-
----
-
-## Executive Summary
-
-| Listing | Current Rating | Reviews | Key Opportunity |
-|---------|---------------|---------|-----------------|
-| Unit 5 - Enchanting 3BR | 4.76 | 42 | Improve title SEO, reorder photos |
-| Unit 4 - Guest Favorite | 4.88 | 50 | Leverage "Guest Favorite" status |
-| Unit 3 - Historic Studio | 4.74 | 38 | Target audience refinement |
-| Unit 1 - Zen Manor 2BR | 4.79 | 62 | Highlight unique hammock, refine bohemian appeal |
-| Sarasota Pool Home | New | 0 | Build reviews, optimize for Florida market |
 
 ---
 
@@ -1054,9 +1104,9 @@ Make Sarasota your home - your heated pool is waiting!
 
 ### Immediate Actions
 1. **Add all amenities** - Check every applicable box in Airbnb
-2. **Enable Instant Book** - Increases visibility 20%+
+2. **Enable Instant Book** - Airbnb algorithm favors Instant Book listings (note: disable for 30-day minimum properties where tenant screening is important)
 3. **Set competitive pricing** - Use Smart Pricing as baseline
-4. **Respond within 1 hour** - Response rate affects ranking
+4. **Respond quickly** - Aim for under 1 hour during business hours; response rate affects ranking
 5. **Request reviews** - Follow up with guests post-stay
 
 ### Content Updates

@@ -14,6 +14,9 @@
 4. [Platform Draft Listings](#platform-draft-listings)
 5. [Implementation Roadmap](#implementation-roadmap)
 6. [Financial Projections](#financial-projections)
+7. [Success Metrics & Milestones](#success-metrics--milestones)
+8. [Risk Mitigation Strategies](#risk-mitigation-strategies)
+9. [Legal & Insurance Considerations](#appendix-legal--insurance-considerations)
 
 ---
 
@@ -105,13 +108,13 @@ Traditional short-term rentals leave money on the table during vacant periods. T
 ### OPPORTUNITIES
 
 1. **Swimply Market Growth**
-   - Pool rental market growing 200%+ year-over-year
-   - Heated pools in Florida command premium rates
-   - Winter snowbirds + locals seeking pool access = year-round demand
+   - Pool rental platforms gaining traction in Florida market
+   - Heated pools command premium rates year-round
+   - Winter snowbirds + locals seeking pool access = steady demand
 
-2. **Content Creator Economy Boom**
-   - 50M+ content creators in US seeking unique locations
-   - TikTok, Instagram Reels driving demand for aesthetic spaces
+2. **Content Creator Economy**
+   - Growing demand for unique photo/video locations
+   - TikTok, Instagram Reels driving need for aesthetic spaces
    - Businesses need locations for product photography
 
 3. **Remote Work Revolution**
@@ -131,7 +134,7 @@ Traditional short-term rentals leave money on the table during vacant periods. T
 
 6. **Premium Pricing for Uniqueness**
    - Generic spaces are commoditized
-   - Unique aesthetics command 30-50% premium
+   - Unique aesthetics can command premium pricing over standard venues
    - Hartford's bohemian style differentiates from corporate spaces
 
 ### THREATS
@@ -673,31 +676,44 @@ Make your next event unforgettable - book now!
 
 # FINANCIAL PROJECTIONS
 
-## Conservative Monthly Revenue Estimates
+> **Important Note:** These projections include a ramp-up period. New listings on Swimply and Peerspace typically take 3-6 months to build reviews and gain traction. Year 1 expectations should be conservative.
+
+## Realistic Monthly Revenue Estimates (After 6-Month Ramp-Up)
 
 ### Sarasota Pool (Swimply)
 
-| Scenario | Bookings/Month | Avg Rate | Revenue |
-|----------|----------------|----------|---------|
-| Low | 8 hours | $80/hr | $640 |
-| Medium | 15 hours | $90/hr | $1,350 |
-| High | 25 hours | $100/hr | $2,500 |
+| Scenario | Bookings/Month | Avg Rate | Gross Revenue |
+|----------|----------------|----------|---------------|
+| Conservative | 4-6 hours | $75/hr | $300-450 |
+| Moderate | 8-12 hours | $85/hr | $680-1,020 |
+| Optimistic | 15-20 hours | $95/hr | $1,425-1,900 |
+
+**Year 1 Reality Check:**
+- Months 1-3: Expect 2-4 bookings/month while building reviews
+- Months 4-6: Gradual increase as reviews accumulate
+- Additional costs: Extra pool cleaning ($50-75/rental), liability insurance rider ($500-1,000/year)
 
 ### Hartford Units (Peerspace Combined)
 
-| Scenario | Bookings/Month | Avg Rate | Revenue |
-|----------|----------------|----------|---------|
-| Low | 10 hours | $70/hr | $700 |
-| Medium | 20 hours | $80/hr | $1,600 |
-| High | 35 hours | $85/hr | $2,975 |
+| Scenario | Bookings/Month | Avg Rate | Gross Revenue |
+|----------|----------------|----------|---------------|
+| Conservative | 4-8 hours | $65/hr | $260-520 |
+| Moderate | 10-15 hours | $75/hr | $750-1,125 |
+| Optimistic | 20-25 hours | $80/hr | $1,600-2,000 |
 
-### Total Additional Revenue Potential
+**Year 1 Reality Check:**
+- Hartford is a secondary market with less content creator demand than major metros
+- Focus on ONE unit initially (Unit 1 - Zen Manor) to build reviews before expanding
 
-| Scenario | Monthly | Annual |
-|----------|---------|--------|
-| Conservative | $1,340 | $16,080 |
-| Moderate | $2,950 | $35,400 |
-| Optimistic | $5,475 | $65,700 |
+### Realistic Annual Revenue Potential
+
+| Scenario | Monthly (Stabilized) | Year 1 Total* | Year 2 Total |
+|----------|----------------------|---------------|--------------|
+| Conservative | $560-970 | $4,000-6,000 | $6,700-11,600 |
+| Moderate | $1,430-2,145 | $9,000-13,000 | $17,200-25,700 |
+| Optimistic | $3,025-3,900 | $18,000-24,000 | $36,300-46,800 |
+
+*Year 1 accounts for 6-month ramp-up period with lower bookings
 
 ## Platform Fees to Account For
 
@@ -726,6 +742,65 @@ Make your next event unforgettable - book now!
 | **Giggster** | Film/production | 15% | Medium | Medium |
 | **Daypass** | Day offices | Varies | Low | Low-Medium |
 | **Direct** | Events | 0% | High | Medium |
+
+---
+
+# SUCCESS METRICS & MILESTONES
+
+## 30-Day Milestones
+- [ ] Swimply listing live with 5+ high-quality photos
+- [ ] At least 1 Peerspace listing live (Unit 1 recommended)
+- [ ] First Swimply booking completed
+- [ ] First review received on any alternative platform
+
+## 90-Day Milestones
+- [ ] 3+ reviews on Swimply
+- [ ] 2+ reviews on Peerspace
+- [ ] Monthly revenue exceeding $500 combined
+- [ ] Repeat customer (any platform)
+
+## 6-Month Milestones
+- [ ] 10+ total reviews across alternative platforms
+- [ ] Monthly revenue stabilized at $1,000+
+- [ ] Insurance and liability fully addressed
+- [ ] Expansion to additional units (if demand supports)
+
+## Key Performance Indicators (KPIs) to Track
+
+| Metric | Target | Frequency |
+|--------|--------|-----------|
+| Booking requests per week | 2+ | Weekly |
+| Average rating | 4.8+ stars | Monthly |
+| Net revenue after fees/costs | $800+/month | Monthly |
+| Calendar conflict incidents | 0 | Ongoing |
+| Review response rate | 100% | Ongoing |
+
+---
+
+# RISK MITIGATION STRATEGIES
+
+## Pool Rental Risks (Swimply)
+
+| Risk | Mitigation |
+|------|------------|
+| Guest injury | Require signed liability waiver, verify insurance covers commercial pool use, post clear safety rules |
+| Property damage | Collect security deposit ($200-300), photo document before/after each rental |
+| Neighbor complaints | Limit hours (no rentals after 9pm), cap guest count at 10, monitor noise |
+| HOA violations | Verify HOA allows commercial use BEFORE listing - this is a prerequisite |
+
+## Event/Photo Rental Risks (Peerspace)
+
+| Risk | Mitigation |
+|------|------------|
+| Equipment damage to property | Require renters insurance or damage deposit, no permanent modifications allowed |
+| Exceeding guest capacity | Clear rules, security deposit forfeit for violations |
+| Calendar conflicts with Airbnb | Block Airbnb calendar during alternative bookings, use calendar sync tools |
+
+## Emergency Response Protocol
+
+1. **Guest injury:** Call 911, document incident, contact insurance within 24 hours
+2. **Property damage:** Document with photos/video, file claim through platform + insurance
+3. **Neighbor complaint:** Apologize, adjust rules, consider ending rental early if necessary
 
 ---
 

@@ -2,6 +2,22 @@
 
 A comprehensive market research and optimization strategy for short-term rental properties across multiple markets. This project demonstrates data-driven approaches to improving Airbnb listing performance, including SEO optimization, competitive analysis, and strategic pricing.
 
+---
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Key Findings](#key-findings)
+- [Analysis Components](#analysis-components)
+- [Repository Structure](#repository-structure)
+- [Methodology](#methodology)
+- [Tools & Platforms](#tools--platforms)
+- [Key Recommendations Summary](#key-recommendations-summary)
+- [Results Framework](#results-framework)
+- [About This Project](#about-this-project)
+
+---
+
 ## Project Overview
 
 This repository contains a detailed optimization framework for a portfolio of 5 Airbnb properties:
@@ -68,9 +84,15 @@ Detailed buyer personas for each market including:
 ## Repository Structure
 
 ```
-├── README.md
-├── airbnb-listing-optimization-recommendations.md  # Main analysis document
-└── /assets                                         # Supporting images (if any)
+├── README.md                                       # Project overview (this file)
+├── airbnb-listing-optimization-recommendations.md  # Main optimization analysis
+├── alternative-revenue-strategies.md              # Swimply/Peerspace strategies
+└── feedback-*.md                                  # Expert review documents
+    ├── feedback-diana-data-analytics-critic.md   # Data validation review
+    ├── feedback-james-str-industry-expert-critic.md  # Industry expert review
+    ├── feedback-marcus-seo-marketing-critic.md   # SEO/Marketing review
+    ├── feedback-sophia-ux-readability-critic.md  # UX/Readability review
+    └── feedback-victor-business-strategy-critic.md   # Strategy review
 ```
 
 ## Methodology
@@ -105,19 +127,18 @@ Detailed buyer personas for each market including:
 ## Results Framework
 
 Success metrics to track post-implementation:
-- First-page search impression rate (target: 60%+)
-- Search-to-listing conversion (target: 15%+)
-- Listing-to-booking conversion (target: 5%+)
-- Overall occupancy improvement
-- Average daily rate optimization
+
+| Metric | Target | Timeline |
+|--------|--------|----------|
+| First-page search impression rate | 60%+ | 30 days |
+| Search-to-listing conversion | 15%+ | 60 days |
+| Listing-to-booking conversion | 5%+ | 90 days |
+| Overall occupancy improvement | +15% from baseline | Q1 2026 |
+| Average daily rate optimization | Maintain or improve | Ongoing |
 
 ## About This Project
 
 This analysis was conducted as part of a real-world property optimization initiative. The recommendations are based on actual market data, competitor research, and platform best practices.
-
-## Contact
-
-For questions about this analysis or collaboration opportunities, please reach out.
 
 ---
 
